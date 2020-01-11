@@ -1,0 +1,6 @@
+Car 1200 120
+Bike 100 120
+TV 150 60
+Computer 200 180
+Boat 20000 180
+Laptop 500 180
